@@ -1,0 +1,5 @@
+baseURL = "https://d-generations.github.io"
+languageCode = "ja-jp"
+title = "dgen"
+defaultContentLanguage = "jp"
+theme = "icon"
